@@ -1,0 +1,13 @@
+Hello World Apex Code
+
+public class firstclass 
+{
+    public static void Test()
+    {
+        system.debug('Hello world');
+    }
+}
+
+To check output enter the following command in ANONYMOUS WINDOW
+
+---->  firstclass.test();
