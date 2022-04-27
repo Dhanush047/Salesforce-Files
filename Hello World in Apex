@@ -1,4 +1,5 @@
 Hello World Apex Code
+---------------------------------------------------------------
 
 public class firstclass 
 {
@@ -8,6 +9,10 @@ public class firstclass
     }
 }
 
+---------------------------------------------------------------
+
 To check output enter the following command in ANONYMOUS WINDOW
 
----->  firstclass.test();
+--> firstclass.test();
+
+----------------------- < END > -------------------------------
