@@ -1,0 +1,25 @@
+APEX DATE, TIME AND DATETIME DATA TYPE
+===================================================================
+                                                                   
+public class Apexdata 
+{
+    public static void values()
+    {
+        Date todayy = Date.newInstance(2000,07,04);
+        Time timenow = Time.newInstance(08,30,00,00);
+        DateTime datime = DateTime.newInstance(2000,07,04,08,30,00);
+        
+        system.debug(todayy);
+        system.debug(timenow);
+        system.debug(datime);
+    }
+    
+}
+
+===================================================================
+
+TO EXECUTE THE OUTPUT
+
+apexdata.values();
+
+===================================================================
