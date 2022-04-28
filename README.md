@@ -4,11 +4,14 @@
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h5> --> Apex Data Types (https://github.com/Dhanush047/Salesforce-Files/blob/630659598f1c79db6d79609d3eea1b5e72fa7442/Apex%20Datatypes%20Examples)
+<h5> --> 2.Apex Data Types (https://github.com/Dhanush047/Salesforce-Files/blob/630659598f1c79db6d79609d3eea1b5e72fa7442/Apex%20Datatypes%20Examples)
   
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-<h5> --> 2.Apex Date, Time and Date Time (https://github.com/Dhanush047/Salesforce-Files/blob/76e30cec252e209af939c408ada861c9db7ed96c/Apex%20Date%20Time%20and%20Date%20Time)
+<h5> --> 3.Apex Date, Time and Date Time (https://github.com/Dhanush047/Salesforce-Files/blob/76e30cec252e209af939c408ada861c9db7ed96c/Apex%20Date%20Time%20and%20Date%20Time)
     
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h5> --> 4.Apex Arithmetic Operations (https://github.com/Dhanush047/Salesforce-Files/blob/4e5344afe101adeefad2d98e454be2b211edb187/Apex%20Arithmetic%20Operations)
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
