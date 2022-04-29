@@ -27,5 +27,5 @@
 [APEX - LIST](https://github.com/Dhanush047/Salesforce-Files/blob/a9a777d7aa6a1da51db9a4b2d3be69dcf75bbbae/Apex%20-%20List) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img src="https://media0.giphy.com/media/U8NDCmPOnqcEYl1oav/giphy.gif?cid=790b7611a11c0c47757d9636cf1e29341580a257a5121af5&rid=giphy.gif&ct=ts" class="centerImage" alt="CH Logo" align="center" height="120" width="350">
+
 
