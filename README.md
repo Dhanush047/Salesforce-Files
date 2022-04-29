@@ -29,3 +29,4 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://media0.giphy.com/media/U8NDCmPOnqcEYl1oav/giphy.gif?cid=790b7611a11c0c47757d9636cf1e29341580a257a5121af5&rid=giphy.gif&ct=ts" class="centerImage" alt="CH Logo" height="120" width="350">
 
+<center><img src="https://www.computerhope.com/cdn/media/logo-200-gray.png" alt="what image shows" height="150" width="200"></center>
