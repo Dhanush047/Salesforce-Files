@@ -5,12 +5,7 @@ public class mapcode
 {
     public mapcode()
     {
-        Map<Integer , String> map1 = new Map<Integer , String>();
-        map1.put(07,'Dhoni');
-        map1.put(03,'Suresh Raina');
-        map1.put(08,'Jadeja');
         
-        system.debug(map1);
         
     }
     
