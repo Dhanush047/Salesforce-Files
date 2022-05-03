@@ -19,6 +19,12 @@ public class mapcode
         system.debug(map1);
         
         system.debug(map1.get(18));  // to get the values using key
+        
+        List<String> listv = new List<String>(); // to add map values to a list
+        listv = map1.values();
+        
+        system.debug(listv);
+        
     }
     
 }
