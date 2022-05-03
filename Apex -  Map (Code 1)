@@ -11,27 +11,27 @@ public class mapcode
         map1.put(08,'Jadeja');
         system.debug(map1);
         
-        Map<Integer , String> map2 = new Map<Integer , String>();  // putall command is used to add all data from one map to another map
+        Map<Integer , String> map2 = new Map<Integer , String>(); 
         map2.put(45,'Rohit Sharma');
         map2.put(18,'Virat Kholi');
         
         map2.putall(map1);
-        system.debug(map1);
+        system.debug(map2);
         
-        system.debug(map1.get(18));  // to get the values using key
+        system.debug(map2.get(7));
         
-        List<String> listv = new List<String>(); // to add map values to a list
-        listv = map1.values();
+        List<String> listv = new List<String>();
+        listv = map2.values();
         
         system.debug(listv);
         
-        system.debug(map1.keyset()); // to collect and display the key values
+        system.debug(map2.keyset());
         
-        Boolean result = map1.containsKey(45);
+        Boolean result = map2.containsKey(45);
         system.debug(result);
-        Boolean result2 = map1.containsKey(99);
+        Boolean result2 = map2.containsKey(99);
         system.debug(result2);
-        
+     
     }
     
 }
