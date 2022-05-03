@@ -25,6 +25,8 @@ public class mapcode
         
         system.debug(listv);
         
+        system.debug(map1.keyset()); // to collect and display the key values
+        
     }
     
 }
