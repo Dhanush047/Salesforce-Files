@@ -18,6 +18,7 @@ public class mapcode
         map2.putall(map1);
         system.debug(map1);
         
+        system.debug(map1.get(18));  // to get the values using key
     }
     
 }
