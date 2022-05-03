@@ -9,7 +9,13 @@ public class mapcode
         map1.put(07,'Dhoni');
         map1.put(03,'Suresh Raina');
         map1.put(08,'Jadeja');
+        system.debug(map1);
         
+        Map<Integer , String> map2 = new Map<Integer , String>();
+        map2.put(45,'Rohit Sharma');
+        map2.put(18,'Virat Kholi');
+        
+        map2.putall(map1);
         system.debug(map1);
         
     }
