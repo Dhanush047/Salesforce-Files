@@ -27,6 +27,11 @@ public class mapcode
         
         system.debug(map1.keyset()); // to collect and display the key values
         
+        Boolean result = map1.containsKey(45);
+        system.debug(result);
+        Boolean result2 = map1.containsKey(99);
+        system.debug(result2);
+        
     }
     
 }
