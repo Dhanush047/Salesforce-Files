@@ -10,3 +10,8 @@ public class demosobj
         cont.FirstName='Dhoni';
         cont.LastName='Kumar';    
         insert cont;
+        
+        account acc = new account();
+        acc.Name=cont.FirstName;
+        insert acc;
+        
