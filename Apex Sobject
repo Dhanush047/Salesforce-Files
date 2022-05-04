@@ -15,3 +15,8 @@ public class demosobj
         acc.Name=cont.FirstName;
         insert acc;
         
+        employee__c emp = new employee__c();
+        emp.Name=acc.Name;
+        
+        insert emp;
+        
