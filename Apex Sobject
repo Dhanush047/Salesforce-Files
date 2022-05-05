@@ -21,8 +21,7 @@ public class demosobj
         
         employee__c emp = new employee__c();
         emp.Name=acc.Name;
-        
-        insert emp;
+        emp.Department__c=dept.Name;
         
              
     }
