@@ -19,6 +19,8 @@ public class demosobj
         dept.Name = 'MCA';
         insert dept;
         
+        Working_Employee__c emp = new Working_Employee__c();
+        
              
     }
 
