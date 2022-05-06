@@ -15,13 +15,7 @@ public class demosobj
         acc.Name=cont.FirstName;
         insert acc;
         
-        department__C dept = new department__c();
-        dept.Name='MBBS';
-        insert dept;
-        
-        employee__c emp = new employee__c();
-        emp.Name=acc.Name;
-        emp.Department__c=dept.Name;
+        Working_Department__c dept = new Working_Department__c();
         
              
     }
