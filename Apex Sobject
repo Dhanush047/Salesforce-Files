@@ -21,6 +21,7 @@ public class demosobj
         
         Working_Employee__c emp = new Working_Employee__c();
         emp.Name = acc.name;
+        emp.Department__c = dept.Name;
         
              
     }
