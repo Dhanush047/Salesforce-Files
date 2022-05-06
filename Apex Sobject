@@ -20,6 +20,7 @@ public class demosobj
         insert dept;
         
         Working_Employee__c emp = new Working_Employee__c();
+        emp.Name = acc.name;
         
              
     }
