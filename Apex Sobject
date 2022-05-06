@@ -6,13 +6,8 @@ public class demosobj
 {
     public static void demosob()
     {
-        contact cont = new contact();
-        cont.FirstName='Dhoni';
-        cont.LastName='Kumar';    
-        insert cont;
-        
         account acc = new account();
-        acc.Name=cont.FirstName;
+        acc.Name = 'kumar Sangakkara';
         insert acc;
         
         Working_Department__c dept = new Working_Department__c();
@@ -23,9 +18,9 @@ public class demosobj
         emp.Name = acc.name;
         emp.Department__c = dept.Name;
         insert emp;
-             
+      
     }
-
+    
 }
 
 =========================================================
