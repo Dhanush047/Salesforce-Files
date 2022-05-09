@@ -1,4 +1,4 @@
-**APEX CODE TO CALCULATE LEAP YEAR**
+APEX CODE TO CALCULATE LEAP YEAR
 
 ===============================================
 
@@ -19,7 +19,9 @@ public class leapyear
     
 }
 
-**TO EXECUTE OUTPUT USE THE FOLLOWING COMMAND**
+===============================================
+
+TO EXECUTE OUTPUT USE THE FOLLOWING COMMAND
 
 leapyear.leap();
 
