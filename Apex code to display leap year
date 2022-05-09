@@ -1,3 +1,20 @@
 APEX CODE TO CALCULATE LEAP YEAR
 
 ===============================================
+
+public class leapyear 
+{
+    public static void leap()
+    {
+        integer y = 2015;
+        if(math.mod(y,4)==0)
+        {
+            system.debug('Is a Leap Year');
+        }
+        else
+        {
+            system.debug('Not a Leap Year');
+        }
+    }
+    
+}
