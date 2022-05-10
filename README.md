@@ -43,3 +43,5 @@
 [**APEX MULTIPLICATION TABLE**](https://github.com/Dhanush047/Salesforce-Files/blob/24d37ef04e3d199d63e6b253b1424e326c707e7f/Apex%20Code%20to%20Display%20Multiplication%20table)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX ODD OR EVEN**]()
