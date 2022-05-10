@@ -1,0 +1,28 @@
+APEX CODE TO CALCULATE LARGEST BETWEEN TWO NUMBERS
+======================================================================
+
+public class basic 
+{
+    public static void base()
+    {
+        integer a = 89;
+        integer b = 67;
+        if(a>b)
+        {
+            system.debug('THE LARGEST NUMBER IS : ' +a);
+        }
+        else
+        {
+            system.debug('THE LARGEST NUMBER IS : ' +b);
+        }
+    }
+
+}
+
+======================================================================
+
+TO EXECUTE USE THE FOLLOWING COMMAND
+
+basic.base();
+
+======================================================================
