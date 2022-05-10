@@ -1,0 +1,22 @@
+APEX CODE TO CONVERT INR TO USD
+======================================================================
+
+public class basic 
+{
+    public static void base()
+    {
+        decimal inr = 10000;
+        decimal usd;
+        usd = inr/75;
+        system.debug('INR TO USD : ' +usd);
+    }
+
+}
+
+======================================================================
+
+TO EXECUTE USE THE FOLLOWING COMMAND
+
+basic.base();
+
+======================================================================
