@@ -49,3 +49,33 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [**APEX GREETING MESSAGE TO INPUT**](https://github.com/Dhanush047/Salesforce-Files/blob/8f139f03afd00c7f59800b61c9dee5cbcf79b3be/Apex%20code%20to%20send%20greeting%20message%20to%20input)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX SIMPLE INTEREST**](https://github.com/Dhanush047/Salesforce-Files/blob/38cab476c9702ae30420cbef6ac4f9aa3e97aaac/Apex%20code%20to%20calculate%20simple%20interest)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX LARGEST BETWEEN TWO NUMBERS  **](https://github.com/Dhanush047/Salesforce-Files/blob/e637cb190c9b552ce789258f26c024f8518f50fa/Apex%20Largest%20between%20two%20numbers)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX TO CONVERT INR TO USD**](https://github.com/Dhanush047/Salesforce-Files/blob/08192acfe43989cf3a8afcfb7ff5365715d23217/Apex%20code%20to%20convert%20inr%20to%20usd)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO FIND PALINDROME OR NOT**](https://github.com/Dhanush047/Salesforce-Files/blob/a3e9f63c07d371210965ea139f1d2089a528c6a3/Apex%20code%20to%20find%20palindrome%20or%20not)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO FIND AREA OF CIRCLE**](https://github.com/Dhanush047/Salesforce-Files/blob/032bdea2b4d44e2ed1d6c0b5edf7bc4414d9ba84/Apex%20code%20to%20find%20area%20of%20circle)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO PERFORM FIBONACCI SERIES**](https://github.com/Dhanush047/Salesforce-Files/blob/e956e11f71b5b7aca9cd6304e6e88bb06e710d49/Apex%20code%20to%20find%20Fibonacci%20series)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO PERFORM IF ELSE USING OPERATORS**](https://github.com/Dhanush047/Salesforce-Files/blob/092e6ae0cf1c8cf5169f7174751872d63018ded6/Apex%20code%20to%20get%20two%20numbers%20and%20perform%20operations%20using%20if%20else)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
