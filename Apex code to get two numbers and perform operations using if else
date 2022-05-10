@@ -1,0 +1,47 @@
+APEX CODE TO FIND FIBONACCI SERIES FOR N NUMBERS
+======================================================================
+
+public class basic 
+{
+    public static void base()
+    {
+        integer a = 25;
+        integer b = 3;
+        integer temp;
+        string op = '+';
+        if(op == '+')
+        {
+            temp = a + b;
+            system.debug('ADDITION IS : ' +temp);
+        }
+        else if(op == '-')
+        {
+            temp = a - b;
+            system.debug('SUBTRACTION IS : ' +temp);
+        }
+        else if(op == '*')
+        {
+            temp = a * b;
+            system.debug('MULTIPLICATION IS : ' +temp);
+        }
+        else if(op == '/')
+        {
+            temp = a / b;
+            system.debug('DIVIDE IS : ' +temp);
+        }
+        else
+        {
+            system.debug('INVALID OPERATOR');
+        }
+        
+    }
+
+}
+
+======================================================================
+
+TO EXECUTE USE THE FOLLOWING COMMAND
+
+basic.base();
+
+======================================================================
