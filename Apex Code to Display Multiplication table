@@ -7,3 +7,5 @@ public class tables
         {
             system.debug(n + '*' + i + '=' +n*i);
         }
+    }
+}
