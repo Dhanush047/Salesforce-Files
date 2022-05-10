@@ -39,3 +39,5 @@
 [**APEX LEAP YEAR**](https://github.com/Dhanush047/Salesforce-Files/blob/996f12a290dc9dfdb6280a6910a29732c2fe9dfd/Apex%20code%20to%20display%20leap%20year)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX MULTIPLICATION TABLE**](https://github.com/Dhanush047/Salesforce-Files/blob/24d37ef04e3d199d63e6b253b1424e326c707e7f/Apex%20Code%20to%20Display%20Multiplication%20table)
