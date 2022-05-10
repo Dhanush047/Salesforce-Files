@@ -1,3 +1,7 @@
+APEX CODE TO DISPLAY MULTIPLICATION TABLES
+
+===================================================
+
 public class tables 
 {
     public static void multitab()
@@ -9,3 +13,13 @@ public class tables
         }
     }
 }
+
+====================================================
+
+TO EXECUTE OUTPUT USE THE FOLLOWING COMMAND
+
+tables.multitab();
+
+====================================================
+
+
