@@ -45,3 +45,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [**APEX ODD OR EVEN**](https://github.com/Dhanush047/Salesforce-Files/blob/ce70b8686d0aebbd2d01b779d80d90105dd06212/Apex%20Odd%20or%20Even)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX GREETING MESSAGE TO INPUT**](https://github.com/Dhanush047/Salesforce-Files/blob/8f139f03afd00c7f59800b61c9dee5cbcf79b3be/Apex%20code%20to%20send%20greeting%20message%20to%20input)
