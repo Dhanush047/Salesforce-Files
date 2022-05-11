@@ -83,3 +83,5 @@
 [**APEX CODE TO PERFORM IF ELSE USING OPERATORS**](https://github.com/Dhanush047/Salesforce-Files/blob/86a0bec65367bc7764f4e1d5b94b5ab59d88d64a/Apex%20code%20for%20sum%20of%20the%20digits)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO CHECK VOWEL OR CONSONANT**]()
