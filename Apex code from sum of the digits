@@ -1,0 +1,19 @@
+public class basic 
+{
+    public static void base()
+    {
+        integer a,sum,r;
+        a = 473;
+        sum=0;
+        while(a>0)
+        {
+            r = math.mod(a,10);
+            a = a / 10;
+            sum = r + sum;
+        }
+        system.debug('THE VALUE OF DIGITS IS : ' +sum);
+        
+        
+    }
+
+}
