@@ -87,3 +87,7 @@
 [**APEX CODE TO CHECK VOWEL OR CONSONANT**](https://github.com/Dhanush047/Salesforce-Files/blob/68aa500ad80985a639f9cec5d5602d79c1edcaf5/Apex%20code%20to%20find%20vowel%20or%20consonant)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX NUMBER OF DAYS IN MONTH**](https://github.com/Dhanush047/Salesforce-Files/blob/63fe4a6563f5f032839582cd03644133fab8a525/Apex%20code%20for%20no%20of%20days%20in%20month)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
