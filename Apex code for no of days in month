@@ -1,3 +1,6 @@
+APEX CODE TO DISPLAY NUMBER OF DAYS IN MONTH
+============================================================
+
 public class basic 
 {
     public static void base()
@@ -9,3 +12,10 @@ public class basic
         
 
 }
+
+============================================================
+
+TO EXECUTE OUTPUT USE THE FOLLOWING COMMAND
+
+basic.base();
+============================================================
