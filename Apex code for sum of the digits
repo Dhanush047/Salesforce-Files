@@ -1,3 +1,6 @@
+APEX CODE TO CALCULATE THE SUM OF THE DIGITS
+============================================================
+
 public class basic 
 {
     public static void base()
