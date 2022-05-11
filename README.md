@@ -79,3 +79,7 @@
 [**APEX CODE TO PERFORM IF ELSE USING OPERATORS**](https://github.com/Dhanush047/Salesforce-Files/blob/092e6ae0cf1c8cf5169f7174751872d63018ded6/Apex%20code%20to%20get%20two%20numbers%20and%20perform%20operations%20using%20if%20else)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO PERFORM IF ELSE USING OPERATORS**](https://github.com/Dhanush047/Salesforce-Files/blob/86a0bec65367bc7764f4e1d5b94b5ab59d88d64a/Apex%20code%20for%20sum%20of%20the%20digits)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
