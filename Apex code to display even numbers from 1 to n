@@ -5,3 +5,5 @@ public class basic
         integer n = 100;
         integer r,i;
         for(i=1;i<=n;i++)
+        {
+            if(math.mod(i,2)==0)
