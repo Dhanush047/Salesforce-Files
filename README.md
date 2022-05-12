@@ -99,3 +99,5 @@
 [**APEX CODE TO DISPLAY ODD NUMBERS FROM 1 TO N**](https://github.com/Dhanush047/Salesforce-Files/blob/5f07c2ee082a2350c65b24078708ee2ae940d1b0/Apex%20code%20to%20display%20odd%20numbers%20between%201%20to%20n)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO USE FOR EACH LOOP FOR LIST**]()
