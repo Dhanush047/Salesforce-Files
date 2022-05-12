@@ -1,0 +1,20 @@
+public class basic 
+{
+    public static void base()
+    {
+        list<integer> rollno = new list<integer>();
+        rollno.add(101);
+        rollno.add(102);
+        rollno.add(103);
+        rollno.add(104);
+        rollno.add(105);
+        rollno.add(106);
+        rollno.add(107);
+        
+        for(integer a : rollno)
+        {
+            system.debug(a);
+        }
+    }
+    
+}
