@@ -1,3 +1,6 @@
+APEX CODE TO DISPLAY EVEN NUMBERS BETWEEN 1 TO N
+=======================================================================
+
 public class basic 
 {
     public static void base()
@@ -16,3 +19,9 @@ public class basic
         
 
 }
+=======================================================================
+TO EXECUTE OUTPUT USE THE FOLLOWING COMMAND
+
+basic.base();
+=======================================================================
+
