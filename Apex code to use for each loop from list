@@ -1,3 +1,6 @@
+APEX CODE TO DISPLAY LIST USING FOR EACH LOOP
+========================================================
+
 public class basic 
 {
     public static void base()
@@ -18,3 +21,9 @@ public class basic
     }
     
 }
+========================================================
+TO EXECUTE OUTPUT USE FOLLOWING COMMAND
+
+basic.base();
+========================================================
+
