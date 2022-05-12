@@ -3,3 +3,5 @@ public class basic
     public static void base()
     {
         integer n = 100;
+        integer r,i;
+        for(i=1;i<=n;i++)
