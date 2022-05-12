@@ -7,3 +7,12 @@ public class basic
         for(i=1;i<=n;i++)
         {
             if(math.mod(i,2)==0)
+            {
+                system.debug('EVEN NUMBERS FROM 0 TO 100 ARE : ' +i);
+            }
+        }
+
+    }
+        
+
+}
