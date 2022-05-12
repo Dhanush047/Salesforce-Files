@@ -103,3 +103,5 @@
 [**APEX CODE TO USE FOR EACH LOOP FOR LIST**](https://github.com/Dhanush047/Salesforce-Files/blob/21a6191e818e74f7984631b844108db471d65742/Apex%20code%20to%20use%20for%20each%20loop%20from%20list)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO USE FOR EACH LOOP FOR SET**]()
