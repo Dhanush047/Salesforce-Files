@@ -1,6 +1,12 @@
+APEX CODE TO DISPLAY ODD NUMBERS BETWEEN 1 TO N
+===========================================================
+
 public class basic 
 {
     public static void base()
     {
         integer n = 100;
         integer r,i;
+        for(i=1;i<=n;i++)
+        {
+            if(math.mod(i,2)!=0)
