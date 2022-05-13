@@ -9,3 +9,8 @@ public class basic
             when 'Male'
             {
                 system.debug('The Gender is Male');
+            }
+            when 'Female'
+            {
+                system.debug('The Gender is Female');
+            }
