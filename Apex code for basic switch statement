@@ -5,3 +5,7 @@ public class basic
         String Gender = 'Male';
         
         switch on Gender
+        {
+            when 'Male'
+            {
+                system.debug('The Gender is Male');
