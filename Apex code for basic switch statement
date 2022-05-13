@@ -14,3 +14,11 @@ public class basic
             {
                 system.debug('The Gender is Female');
             }
+            when else
+            {
+                system.debug('Enter proper gender');
+            }
+        }
+    }
+    
+}
