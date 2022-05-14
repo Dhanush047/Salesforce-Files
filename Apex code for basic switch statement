@@ -10,3 +10,7 @@ public class basic
         switch on Gender
         {
             when 'Male'
+            {
+                system.debug('The Gender is Male');
+            }
+            when 'Female'
