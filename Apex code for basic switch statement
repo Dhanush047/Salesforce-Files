@@ -1,2 +1,6 @@
 APEX CODE TO USE SWITCH STATEMENT
 ======================================================
+
+public class basic 
+{
+    public static void base()
