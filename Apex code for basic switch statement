@@ -6,3 +6,7 @@ public class basic
     public static void base()
     {
         String Gender = 'Male';
+        
+        switch on Gender
+        {
+            when 'Male'
