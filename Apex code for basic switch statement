@@ -19,3 +19,4 @@ public class basic
             }
             when else
             {
+                system.debug('Enter proper gender');
