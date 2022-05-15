@@ -1,2 +1,6 @@
 APEX CODE TO CHECK PALINDROME OR NOT
 ======================================================================
+
+public class basic 
+{
+    public static void base()
