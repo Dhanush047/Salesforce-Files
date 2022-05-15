@@ -6,3 +6,5 @@ public class basic
     public static void base()
     {
         list<integer> rollno = new list<integer>();
+        rollno.add(101);
+        rollno.add(102);
