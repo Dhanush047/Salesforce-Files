@@ -15,3 +15,5 @@ public class basic
         else
         {
             system.debug('THE STRING IS NOT PALINDROME :(');
+        }
+        
