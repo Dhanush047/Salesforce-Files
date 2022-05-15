@@ -15,3 +15,10 @@ public class basic
         rollno.add(107);
         
         for(integer a : rollno)
+        {
+            system.debug(a);
+        }
+    }
+    
+}
+========================================================
