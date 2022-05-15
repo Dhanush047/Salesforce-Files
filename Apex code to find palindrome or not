@@ -17,3 +17,6 @@ public class basic
             system.debug('THE STRING IS NOT PALINDROME :(');
         }
         
+    }
+
+}
