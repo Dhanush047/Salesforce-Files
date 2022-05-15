@@ -11,3 +11,7 @@ public class basic
         rollno.add(103);
         rollno.add(104);
         rollno.add(105);
+        rollno.add(106);
+        rollno.add(107);
+        
+        for(integer a : rollno)
