@@ -11,3 +11,7 @@ public class basic
         if(name.equals(reverse))
         {
             system.debug('THE STRING IS PALINDROME :)');
+        }
+        else
+        {
+            system.debug('THE STRING IS NOT PALINDROME :(');
