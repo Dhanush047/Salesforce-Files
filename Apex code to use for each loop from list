@@ -22,3 +22,7 @@ public class basic
     
 }
 ========================================================
+TO EXECUTE OUTPUT USE FOLLOWING COMMAND
+
+basic.base();
+========================================================
