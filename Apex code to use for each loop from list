@@ -4,3 +4,5 @@ APEX CODE TO DISPLAY LIST USING FOR EACH LOOP
 public class basic 
 {
     public static void base()
+    {
+        list<integer> rollno = new list<integer>();
