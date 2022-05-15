@@ -9,3 +9,5 @@ public class basic
         string reverse = name.reverse();
         
         if(name.equals(reverse))
+        {
+            system.debug('THE STRING IS PALINDROME :)');
