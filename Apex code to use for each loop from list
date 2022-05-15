@@ -8,3 +8,6 @@ public class basic
         list<integer> rollno = new list<integer>();
         rollno.add(101);
         rollno.add(102);
+        rollno.add(103);
+        rollno.add(104);
+        rollno.add(105);
