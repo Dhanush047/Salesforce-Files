@@ -6,3 +6,6 @@ public class basic
     public static void base()
     {
         string name = 'MALAYALAM';
+        string reverse = name.reverse();
+        
+        if(name.equals(reverse))
