@@ -1,2 +1,11 @@
 APEX CODE TO PRINT GREETING MESSAGE FOR PARTICULAR NAME
 ======================================================================
+
+public class basic 
+{
+    public static void base()
+    {
+        string name = 'Dhoni';
+        if(name.contains('Dhoni'))
+        {
+            system.debug('Welcome' +name
