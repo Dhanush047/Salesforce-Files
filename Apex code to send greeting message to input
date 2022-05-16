@@ -8,4 +8,21 @@ public class basic
         string name = 'Dhoni';
         if(name.contains('Dhoni'))
         {
-            system.debug('Welcome' +name
+            system.debug('Welcome' +name +'Thanks for coming here');
+        }
+        else
+        {
+            system.debug('SORRY NAME IS NOT PRINT HERE !');
+        }
+        
+    }
+
+}
+
+======================================================================
+
+TO EXECUTE USE THE FOLLOWING COMMAND
+
+basic.base();
+
+======================================================================
