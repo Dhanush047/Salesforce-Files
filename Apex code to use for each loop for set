@@ -13,3 +13,6 @@ public class basic
         name.add('Raina');
         
         for(string na : name)
+        {
+            system.debug(na);
+        }
