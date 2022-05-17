@@ -11,3 +11,5 @@ public class basic
         name.add('Yuvraj');
         name.add('Ganguly');
         name.add('Raina');
+        
+        for(string na : name)
