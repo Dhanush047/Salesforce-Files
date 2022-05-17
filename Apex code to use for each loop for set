@@ -6,3 +6,5 @@ public class basic
     public static void base()
     {
         set<string> name = new set<string>();
+        name.add('Dhoni');
+        name.add('Sachin');
