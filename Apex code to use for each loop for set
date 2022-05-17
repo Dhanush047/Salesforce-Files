@@ -2,3 +2,5 @@ APEX CODE TO USE FOR EACH LOOP FOR SET
 ==============================================
 
 public class basic 
+{
+    public static void base()
