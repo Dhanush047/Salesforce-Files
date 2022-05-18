@@ -12,3 +12,5 @@ public class basic
         totalruns = 3296;
         notout = 25;
         totalmatch = 97;
+        
+        average = totalruns/(innings-notout);
