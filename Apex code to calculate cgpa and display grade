@@ -14,3 +14,13 @@ public class cgpacalculate
         
         cgpa = (English+Tamil+Maths+Science+Social)/(5.0);
         cgpaper = (Decimal)(9.5 * cgpa);
+        system.debug('THE CGPA IS : ' +cgpaper);
+        
+        if(cgpaper > 9.0)
+        {
+            system.debug('CONGRATS YOUR GRADE IS A');
+        }
+        else if(cgpaper > 8.0 && cgpaper < 9.0)
+        {
+            system.debug('CONGRATS YOUR CGPA IS B');
+        }
