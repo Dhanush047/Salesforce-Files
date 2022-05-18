@@ -4,3 +4,7 @@ APEX CODE TO CALCULATE BATTING AVERAGE
 public class basic 
 {
     public static void base()
+    {
+        integer innings,totalruns,notout,totalmatch;
+        string Player = 'Virat Kholi';
+        double average;
