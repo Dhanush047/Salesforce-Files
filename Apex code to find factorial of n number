@@ -6,3 +6,4 @@ public class basic
     public static void base()
     {
         integer i,n,fact;
+        n = 10;
