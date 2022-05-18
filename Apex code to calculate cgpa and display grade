@@ -37,3 +37,7 @@ public class cgpacalculate
 }
 
 ===============================================================================
+TO CALCULATE OUTPUT USE THE FOLLOWING COMMAND
+
+cgpacalculate.cgpa();
+===============================================================================
