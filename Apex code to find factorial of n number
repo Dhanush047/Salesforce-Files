@@ -3,3 +3,6 @@ APEX CODE TO FIND FACTORIAL OF N NUMBER
 
 public class basic 
 {
+    public static void base()
+    {
+        integer i,n,fact;
