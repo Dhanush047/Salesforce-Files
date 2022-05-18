@@ -24,3 +24,11 @@ public class cgpacalculate
         {
             system.debug('CONGRATS YOUR CGPA IS B');
         }
+        else if(cgpaper > 7.0 && cgpaper < 8.0)
+        {
+            system.debug('CONGRATS YOUR CGPA IS C');
+        }
+        else
+        {
+            system.debug('PLEASE CONCENTRATE AND STUDY YOU NEED TO IMPROVE');
+        }
