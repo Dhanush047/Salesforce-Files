@@ -14,3 +14,4 @@ public class basic
         totalmatch = 97;
         
         average = totalruns/(innings-notout);
+        system.debug('AVERAGE OF THE PLAYER ' +Player +'IS : ' +average);
