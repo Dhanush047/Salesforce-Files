@@ -11,4 +11,5 @@ public class basic
         for(i=1;i<=n;i++)
         {
             fact = fact * i;
-
+        }
+        system.debug('FACTORIAL OF' +n+ 'IS : ' +fact);
