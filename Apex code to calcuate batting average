@@ -8,3 +8,5 @@ public class basic
         integer innings,totalruns,notout,totalmatch;
         string Player = 'Virat Kholi';
         double average;
+        innings = 89;
+        totalruns = 3296;
