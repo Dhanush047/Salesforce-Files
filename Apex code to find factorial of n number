@@ -13,3 +13,6 @@ public class basic
             fact = fact * i;
         }
         system.debug('FACTORIAL OF' +n+ 'IS : ' +fact);
+    }
+    
+}
