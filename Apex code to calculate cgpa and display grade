@@ -1,0 +1,6 @@
+APEX CODE TO CALCULATE CGPA AND DISPLAY GRADE
+=======================================================================
+
+public class cgpacalculate 
+{
+    public static void cgpa()
