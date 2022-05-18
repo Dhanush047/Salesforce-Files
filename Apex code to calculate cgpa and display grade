@@ -32,3 +32,6 @@ public class cgpacalculate
         {
             system.debug('PLEASE CONCENTRATE AND STUDY YOU NEED TO IMPROVE');
         }
+    }
+
+}
