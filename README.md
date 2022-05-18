@@ -115,3 +115,5 @@
 [**APEX CODE TO USE SWITCH STATEMENT**](https://github.com/Dhanush047/Salesforce-Files/blob/2e5f6c0730380ab6c6ac5533f22df01de922197e/Apex%20code%20for%20basic%20switch%20statement)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO CALCULATE FACTORIAL**]()
