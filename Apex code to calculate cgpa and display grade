@@ -11,3 +11,6 @@ public class cgpacalculate
         Maths = 8.1;
         Science = 9.0;
         Social = 7.3;
+        
+        cgpa = (English+Tamil+Maths+Science+Social)/(5.0);
+        cgpaper = (Decimal)(9.5 * cgpa);
