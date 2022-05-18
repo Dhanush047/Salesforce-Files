@@ -10,3 +10,5 @@ public class basic
         double average;
         innings = 89;
         totalruns = 3296;
+        notout = 25;
+        totalmatch = 97;
