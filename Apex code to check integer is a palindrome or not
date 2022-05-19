@@ -9,3 +9,9 @@ public class basic
             c = Math.mod(a,10);
             d = (d * 10) + c;
             a = a / 10 ;
+            
+        }
+        
+        
+        if(d == b)
+        {
