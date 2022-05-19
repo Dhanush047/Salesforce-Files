@@ -19,3 +19,9 @@ public class basic
         }
         else
         {
+            return 'It is not Palindrome' +d + '' +'='+b ;
+        }
+    }
+    
+    
+}
