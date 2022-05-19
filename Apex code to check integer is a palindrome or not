@@ -5,3 +5,5 @@ public class basic
         integer a = 123 , b = 555; 
         integer c,d = 0 ;
         while(a>0) 
+        {
+            c = Math.mod(a,10);
