@@ -15,3 +15,7 @@ public class basic
         
         if(d == b)
         {
+            return 'It is Palindrome ' +d + '' +'='+b;
+        }
+        else
+        {
