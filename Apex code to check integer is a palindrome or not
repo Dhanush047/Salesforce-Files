@@ -3,3 +3,5 @@ public class basic
     public static string reverse()
     {
         integer a = 123 , b = 555; 
+        integer c,d = 0 ;
+        while(a>0) 
