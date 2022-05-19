@@ -127,3 +127,5 @@
 [**APEX CODE TO BATTING AVERAGE OF PLAYER**](https://github.com/Dhanush047/Salesforce-Files/blob/30745f8062095177950a58e12630ae3bf097badc/Apex%20code%20to%20calcuate%20batting%20average)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO CHECK INTEGER IS A PALINDROME OR NOT**]()
