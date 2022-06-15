@@ -135,3 +135,7 @@
 [**APEX CODE TO CHECK INTEGER IS POSITIVE OR NEGATIVE**](https://github.com/Dhanush047/Salesforce-Files/blob/445c693e726e8224b3f59cab59c5d625bade3d17/Apex%20code%20to%20check%20the%20number%20is%20positive%20or%20negative)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO CALCULATE SUM OF N NATURAL NUMBERS**](https://github.com/Dhanush047/Salesforce-Files/blob/b21fd49e931454bd40e8ab01e7a20ec10771c55a/Apex%20code%20to%20calculate%20Sum%20of%20N%20Natural%20numbers)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
