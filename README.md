@@ -139,3 +139,8 @@
 [**APEX CODE TO CALCULATE SUM OF N NATURAL NUMBERS**](https://github.com/Dhanush047/Salesforce-Files/blob/b21fd49e931454bd40e8ab01e7a20ec10771c55a/Apex%20code%20to%20calculate%20Sum%20of%20N%20Natural%20numbers)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**APEX CODE TO CHECK WHETHER NUMBER IS A NATURAL NUMBER**](https://github.com/Dhanush047/Salesforce-Files/blob/0d3f995fb138208129c39c707496aee31a0dab69/Apex%20code%20to%20calculate%20whether%20number%20is%20a%20perfect%20number)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
