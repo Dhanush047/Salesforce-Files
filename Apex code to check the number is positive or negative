@@ -1,3 +1,6 @@
+APEX CODE TO CALCULATE NUMBER IS POSITIVE OR NEGATIVE
+==========================================================
+
 public class PosNeg 
 {
     public static void positive()
@@ -18,3 +21,8 @@ public class PosNeg
     }
 
 }
+==========================================================
+TO CHECK OUTPUT USE FOLLOWING COMMAND
+
+PosNeg.positive();
+==========================================================
