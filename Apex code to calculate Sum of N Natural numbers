@@ -1,0 +1,24 @@
+APEX CODE TO CALCULATE SUM OF N NATURAL NUMBERS
+=================================================
+
+public class apexcode 
+{
+    public static void code()
+    {
+        integer n = 10;
+        integer sum = 0;
+        for(integer i=1;i<=n;i++)
+        {
+            sum += i;
+            system.debug(sum);
+        }
+        
+    }
+
+}
+
+=================================================
+TO EXECUTE OUTPUT USE THE FOLLOWING COMMAND
+
+apexcode.code();
+=================================================
