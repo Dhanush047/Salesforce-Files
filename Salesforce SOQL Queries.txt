@@ -1,0 +1,22 @@
+APEX SOQL QUERIES
+============================================================================================================
+
+SELECT Name,AGE__c,CITY__c from Employee__c
+
+SELECT Name,AGE__c,CITY__c,id from Employee__c WHERE id='a035j000005EP5KAAW'
+
+SELECT Name,AGE__c,CITY__c,id from Employee__c WHERE id='a035j000005EP5KAAW' OR CITY__c='Chennai'
+
+SELECT Name,AGE__c,CITY__c,id from Employee__c WHERE id='a035j000005EP5KAAW' AND CITY__c='Chennai'
+
+SELECT Name,AnnualRevenue,AccountNumber from Account WHERE AnnualRevenue > 950000000
+
+SELECT AccountId,Name,StageName,ExpectedRevenue from Opportunity WHERE StageName = Closed Won AND ExpectedRevenue > 250000
+
+SELECT Name,Type,Status FROM Campaign WHERE Type = 'Trade Show' AND Status = 'Completed'
+
+SELECT count(id) from account
+
+SELECT sum(AnnualRevenue) from account
+============================================================================================================
+
