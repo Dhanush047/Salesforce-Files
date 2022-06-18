@@ -1,0 +1,40 @@
+APEX DATATYPES
+========================================================================
+
+public class apexbase 
+{
+    public static void base()
+    {
+        Integer rollno = 4;
+        system.debug(rollno);
+        
+        String name = 'Dhanush';
+        system.debug(name);
+        
+        Boolean result = true;
+        system.debug(result);
+        
+        Decimal no = 5.2;
+        system.debug(no);
+        
+        Date dob = Date.newInstance(2000,7,4);
+        system.debug(dob);
+        
+        DateTime dt = DateTime.newInstance(2000,7,4,11,15,00);
+        system.debug(dt);
+        
+        id recid = '0015j00000XUZrfAAH';
+        system.debug(recid);
+        
+        String str = 'QWERTYU';
+        Blob b = Blob.valueOf(str);
+        String str2 = b.toString();
+        system.debug(str2);
+    }
+
+}
+========================================================================
+TO EXECUTE USE FOLLOWING COMMAND :)
+
+apexbase.base();
+========================================================================
