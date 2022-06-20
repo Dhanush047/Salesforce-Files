@@ -1,0 +1,8 @@
+SOQL KEYWORDS
+==================================================================================
+
+IN KEYWORD :
+
+Set<string> setname = new set<string> {'Dhanush Adhityan','Dhoni'};
+list<Employee__c> empname = [select id from employee__c WHERE id IN : setname];
+
