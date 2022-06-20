@@ -14,3 +14,10 @@ List<Employee__c> emplist = [SELECT name from Employee__c WHERE name LIKE 'Dh%']
 
 =============================================================================================
 
+NOT IN KEYWORD
+
+Set<string> setname = new set<string> {'Dhanush Adhityan','Dhoni'};
+list<Employee__c> empname = [select id from employee__c WHERE id NOT IN : setname];
+
+=============================================================================================
+
