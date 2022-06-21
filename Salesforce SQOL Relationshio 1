@@ -1,0 +1,17 @@
+SALESFORCE SQOL RELATIOSHIP QUERIES
+=========================================================================================================================
+
+PARENT TO CHILD (USING STANDRAD OBJECT)
+---------------------------------------
+public class apexsoql 
+{
+    public static void soql()
+    {
+        list<Account> acc = [SELECT Id, Name, Type, Phone, AnnualRevenue,(SELECT Type from Opportunities) FROM Account];
+        system.debug('ACCOUNT LIST : ' +acc);
+    }
+
+}
+
+=========================================================================================================================
+
