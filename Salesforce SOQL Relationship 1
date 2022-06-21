@@ -18,6 +18,14 @@ public class apexsoql
 PARENT TO CHILD (USING STANDRAD OBJECT)
 ---------------------------------------
 
+public class apexsoql 
+{
+    public static void soql()
+    {
+        list<Department__c> emp = [SELECT Id, Name, Dept_ID__c, Duration__c,(SELECT name FROM Employees__r)  FROM Department__c];
+        system.debug('DEPARTMENT LIST : ' +emp);
+    }
 
+}
 
 =========================================================================================================================
