@@ -15,7 +15,7 @@ public class apexsoql
 
 =====================================================================================================================================
 
-PARENT TO CHILD (USING STANDRAD OBJECT)
+PARENT TO CHILD (USING CUSTOM OBJECT)
 ---------------------------------------
 
 public class apexsoql 
