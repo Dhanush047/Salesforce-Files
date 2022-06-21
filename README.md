@@ -155,3 +155,7 @@
 [**SOQL CHILD TO PARENT RELATIONSHIP**](https://github.com/Dhanush047/Salesforce-Files/blob/d94ca960ea55490944cc508ecf0a5b779525d560/Salesforce%20SOQL%20Relationship)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**SOQL PARENT TO CHILD RELATIONSHIP**](https://github.com/Dhanush047/Salesforce-Files/blob/54720a49a39b1ccd39428d5631335bbe35157ab5/Salesforce%20SOQL%20Relationship%201)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
