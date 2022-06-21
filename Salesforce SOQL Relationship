@@ -7,7 +7,7 @@ public class apexsoql
     public static void soql()
     {
         list<Opportunity> opp = [SELECT Id, Name, Amount, StageName,Account.name FROM Opportunity];
-        system.debug('EMPLOYEE LIST : ' +opp);
+        system.debug('OPPORTUNITY LIST : ' +opp);
     }
 
 }
