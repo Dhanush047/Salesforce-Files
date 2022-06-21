@@ -1,0 +1,22 @@
+SALESFORCE DYNAMIC SOQL 
+=====================================================
+
+public class dynamicsoql 
+{
+    public static void dynsoql(string str)
+    {
+        string s = 'SELECT name ' + str;
+        List<sobject> s1 = Database.query(s);
+        for(sobject s2 : s1)
+        {
+            system.debug(s2);
+        }
+    }
+
+}
+
+=====================================================
+TO EXECUTE USE THE FOLLOWING COMMAND
+
+dynamicsoql.dynsoql('Account');
+=====================================================
