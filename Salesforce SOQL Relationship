@@ -1,1 +1,14 @@
 SALESFORCE SQOL RELATIOSHIP QUERIES
+====================================================================================================================
+CHILD TO PARENT (USING STANDRAD OBJECT)
+---------------------------------------
+public class apexsoql 
+{
+    public static void soql()
+    {
+        list<Opportunity> opp = [SELECT Id, Name, Amount, StageName,Account.name FROM Opportunity];
+        system.debug('EMPLOYEE LIST : ' +opp);
+    }
+
+}
+
