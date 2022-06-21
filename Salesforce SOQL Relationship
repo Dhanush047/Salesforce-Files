@@ -11,4 +11,22 @@ public class apexsoql
     }
 
 }
+====================================================================================================================
+
+CHILD TO PARENT (USING CUSTOM OBJECT)
+-------------------------------------
+
+public class apexsoql 
+{
+    public static void soql()
+    {
+        list<Employee__c> emp = [SELECT Id, Name, DOB__c, Department__c,Department__r.Dept_Id__c FROM Employee__c];
+        system.debug('EMPLOYEE LIST : ' +emp);
+    }
+
+}
+
+====================================================================================================================
+
+
 
