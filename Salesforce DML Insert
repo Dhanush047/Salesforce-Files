@@ -18,3 +18,16 @@ public class accrec
         insert ac;        
         
     }
+    
+    public static void met()
+    {
+        List<Contact> conlist = [SELECT name,phone from Contact WHERE name LIKE 'A%' ];
+        List <Account> acclist = new List <Account>();
+        for(contact c : conlist)
+        {
+            account acc = new account();
+            acc.Name = c.Name;
+            acc.Phone = c.Phone;
+            acclist.add(acc);
+        }
+        insert acclist;
