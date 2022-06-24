@@ -1,1 +1,13 @@
+SALESFORCE DML FOR INSERT
+=====================================================
 
+public class accrec 
+{
+    public static void record()
+    {
+        account acc = new account();
+        acc.Name = 'Dhoni test';
+        acc.Phone = '8523697415';
+        insert acc;
+        
+    }
