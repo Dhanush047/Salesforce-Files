@@ -11,3 +11,10 @@ public class accrec
         insert acc;
         
     }
+    
+    public static void rec()
+    {
+        account ac = new account(name = 'Sachin',phone = '8855414778', AnnualRevenue = 80000);
+        insert ac;        
+        
+    }
