@@ -31,3 +31,18 @@ public class accrec
             acclist.add(acc);
         }
         insert acclist;
+        
+    }
+    public static void meth()
+    {
+        List<Contact> conlist = [SELECT name,phone from Contact WHERE name LIKE 'A%' ];
+        List <Account> acclist = new List <Account>();
+        for(contact c : conlist)
+        {
+            account acc = new account(name = 'Watson',phone = '2555414778', AnnualRevenue = 80000);
+            acclist.add(acc);
+        }
+        insert acclist;
+    }
+
+}
