@@ -1,2 +1,10 @@
 SALESFORCE SOQL DML UPDATE
 ====================================================================================
+
+public class soqlupdate 
+{
+    public static void dummy()
+    {
+        Account name = [SELECT name,phone from account where name = 'DhoniMSD'];
+        name.Name = name.Name + ' MSD';
+        update name;
