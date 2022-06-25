@@ -13,3 +13,12 @@ public class soqlupdate
 public static void dum()
     {
         List <Account> acc = [SELECT name,phone from account where name LIKE 'U%'];
+        for(Account ac : acc)
+        {
+            ac.Name = ac.Name + 'June';
+            
+        }
+        update acc;
+    }
+
+}
