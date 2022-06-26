@@ -20,3 +20,28 @@ public class dmltask
 
 =======================================================================================================
 
+4.When ever the Account is created with Industry as Banking then create a contact for account, Contact
+Lastname as Account name and contact phone as account phone.
+
+=======================================================================================================
+public class dmltask
+{
+  public static void task4()
+    {
+        List<Account> acclist = [SELECT name,id,phone FROM Account WHERE Industry = 'Banking'];
+        List<Contact> conlist = new List<Contact> ();
+        for (Account acc : acclist)
+        {
+            Contact con = new Contact();
+            con.LastName = acc.Name;
+            con.Phone = acc.Phone;
+            con.AccountId = acc.Id;
+            conlist.add(con);
+        }
+        system.debug(conlist);
+        update conlist;
+    }
+
+}
+
+=======================================================================================================
