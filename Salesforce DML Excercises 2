@@ -1,1 +1,22 @@
 3.Whenever New Account Record is created then needs to create associated Contact Record automatically.
+
+=======================================================================================================
+
+public class dmltask
+{
+  public static void meth()
+      {
+          Account acc = new Account();
+          acc.Name = 'King Khan';
+          acc.Phone = '9632587415';
+          insert acc;
+
+          Contact con = new Contact();
+          con.AccountId = acc.Id;
+          con.LastName = acc.Name;        
+          insert con;
+      }
+}
+
+=======================================================================================================
+
