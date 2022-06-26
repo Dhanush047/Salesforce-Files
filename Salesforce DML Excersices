@@ -1,0 +1,20 @@
+1.Create a 1 case  with origin as email then set status as new and Priority as Medium.
+
+===============================================================================================
+
+public class apexdemo 
+{
+    public static void demo()
+    {
+        Account acc = new Account();
+        acc.Name = 'ABCDE';
+        acc.Phone = '8214796325';
+        acc.AnnualRevenue = 8522214;
+        system.debug(acc);
+        insert acc;
+    }
+    
+===============================================================================================
+public class apexdemo 
+{
+     
