@@ -2,16 +2,16 @@
 
 ===============================================================================================
 
-public class apexdemo 
+public class dmltask 
 {
-    public static void demo()
+    public static void main()
     {
-        Account acc = new Account();
-        acc.Name = 'ABCDE';
-        acc.Phone = '8214796325';
-        acc.AnnualRevenue = 8522214;
-        system.debug(acc);
-        insert acc;
+        Case caseob = new case();
+        caseob.Origin = 'Email';
+        caseob.Status = 'New';
+        caseob.Priority = 'Medium';
+        system.debug(caseob);
+        insert caseob;
     }
     
 ===============================================================================================
