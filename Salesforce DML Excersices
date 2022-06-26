@@ -13,8 +13,30 @@ public class dmltask
         system.debug(caseob);
         insert caseob;
     }
-    
+ }
+ 
 ===============================================================================================
-public class apexdemo 
+
+2.When ever Lead is created with LeadSource as Web then give rating as cold otherwise hot
+
+public class dmltask 
 {
-     
+    public static void leadob()
+        {
+            List<Lead> led = [SELECT name,Leadsource from lead WHERE Leadsource = 'Web'];
+            for(Lead l : led)
+            {
+                if(l.LeadSource.contains('Web'))
+                {
+                    l.Rating = 'Cold';
+                }
+                else
+                {
+                    l.Rating = 'Hot';
+                }
+            }
+            update led;
+        }
+}
+
+===============================================================================================
