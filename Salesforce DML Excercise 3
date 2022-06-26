@@ -1,1 +1,24 @@
 5)create task for account name starts with U
+
+=============================================================================
+
+public class dml task
+{
+  public static void task5()
+    {
+        List<Account> acc = [SELECT name FROM Account WHERE name LIKE 'U%'];
+        List<Task> tas = new List<Task>();
+        for(Account ac : acc)
+        {
+            Task t = new Task();
+            t.Subject = 'Call';
+            t.Status = 'In progress';
+            t.AccountId = acc.Id;
+            tas.add(t);            
+        }
+        update acc;
+    }
+
+}
+
+=============================================================================
