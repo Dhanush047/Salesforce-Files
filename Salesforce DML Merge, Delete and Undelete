@@ -9,11 +9,19 @@ public class apexmerge
         mergelist.add(acclist[2]);
         merge a mergelist;
     }
+}
+
+public class apexmerge 
+{
     public static void main0()
     {
         List<Account> aclist = [SELECT name FROM Account WHERE name LIKE 'Team%' AND isDeleted = True ALL ROWS];
         delete aclist;
     }
+}
+
+public class apexmerge 
+{
     public static void main1()
     {
         List<Account> aclist = [SELECT name FROM Account WHERE name LIKE 'Team%' AND isDeleted = True ALL ROWS];
