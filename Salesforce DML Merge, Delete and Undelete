@@ -2,3 +2,7 @@ public class apexmerge
 {
     public static void main()
     {
+        List<Account> acclist = [SELECT name FROM Account WHERE name LIKE 'Team%'];
+        Account a = acclist[0];
+        List<Account> mergelist = new List<Account>();
+        mergelist.add(acclist[1]);
