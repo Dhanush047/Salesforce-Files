@@ -1,4 +1,5 @@
 SALESFORCE DML MERGE 
+
 ================================================================================================================
 
 public class apexmerge 
@@ -14,6 +15,9 @@ public class apexmerge
     }
 }
 
+================================================================================================================
+SALESFORCE DML DELETE
+
 public class apexmerge 
 {
     public static void main0()
@@ -22,6 +26,8 @@ public class apexmerge
         delete aclist;
     }
 }
+
+================================================================================================================
 
 public class apexmerge 
 {
