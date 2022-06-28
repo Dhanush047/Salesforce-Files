@@ -6,3 +6,6 @@ public class apexmerge
         Account a = acclist[0];
         List<Account> mergelist = new List<Account>();
         mergelist.add(acclist[1]);
+        mergelist.add(acclist[2]);
+        merge a mergelist;
+    }
