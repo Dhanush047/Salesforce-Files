@@ -16,3 +16,17 @@ public class customset
 }
 
 ========================================================================================
+
+GETINSTANCE() METHOD
+--------------------
+
+public class customset 
+{
+ public static void metho()
+    {
+        CountryCode__c cod = CountryCode__c.getInstance('UK');
+        system.debug('THE SPECIFIED DATA IS : ' +cod);
+    }
+}
+
+========================================================================================
