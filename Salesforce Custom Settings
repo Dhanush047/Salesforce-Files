@@ -22,11 +22,28 @@ GETINSTANCE() METHOD
 
 public class customset 
 {
- public static void metho()
-    {
-        CountryCode__c cod = CountryCode__c.getInstance('UK');
-        system.debug('THE SPECIFIED DATA IS : ' +cod);
+     public static void metho()
+        {
+            CountryCode__c cod = CountryCode__c.getInstance('UK');
+            system.debug('THE SPECIFIED DATA IS : ' +cod);
+        }
     }
+
+========================================================================================
+
+GETHIERARCHY() METHOD
+---------------------
+
+public class customset 
+{
+     public static void hier()
+        {
+            OfferPercentage__c off = OfferPercentage__c.getOrgdefaults();
+            system.debug(off);
+            OfferPercentage__c off1 = OfferPercentage__c.getinstance();
+            system.debug(off1);
+        }
+
 }
 
 ========================================================================================
