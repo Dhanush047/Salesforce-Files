@@ -176,15 +176,15 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[**DML DML INSERT**](https://github.com/Dhanush047/Salesforce-Files/blob/16c0dcd45e11d51d42d47d27ddf1a10733510295/Salesforce%20SOQL%20Relationship%201)
+[**DML INSERT**](https://github.com/Dhanush047/Salesforce-Files/blob/16c0dcd45e11d51d42d47d27ddf1a10733510295/Salesforce%20SOQL%20Relationship%201)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[**DML DML UPDATE**](https://github.com/Dhanush047/Salesforce-Files/blob/16c0dcd45e11d51d42d47d27ddf1a10733510295/Salesforce%20SOQL%20Relationship%201)
+[**DML UPDATE**](https://github.com/Dhanush047/Salesforce-Files/blob/16c0dcd45e11d51d42d47d27ddf1a10733510295/Salesforce%20SOQL%20Relationship%201)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[**DML DML EXCERCISES 1**](https://github.com/Dhanush047/Salesforce-Files/blob/616af1485ac82c469d7f386e260ac1c64cef68ab/Salesforce%20DML%20Excersices%201)
+[**DML EXCERCISES 1**](https://github.com/Dhanush047/Salesforce-Files/blob/616af1485ac82c469d7f386e260ac1c64cef68ab/Salesforce%20DML%20Excersices%201)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -193,5 +193,13 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [**DML DML EXCESCISES 3**](https://github.com/Dhanush047/Salesforce-Files/blob/616af1485ac82c469d7f386e260ac1c64cef68ab/Salesforce%20DML%20Excercises%203)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**DML MERGE DELETE AND UNDELETE**](https://github.com/Dhanush047/Salesforce-Files/blob/8dae5f05d72cb7c41a1578142796b2bfbede8990/Salesforce%20DML%20Merge,%20Delete%20and%20Undelete)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**DML CUSTOM SETTINGS**](https://github.com/Dhanush047/Salesforce-Files/blob/8dae5f05d72cb7c41a1578142796b2bfbede8990/Salesforce%20Custom%20Settings)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
