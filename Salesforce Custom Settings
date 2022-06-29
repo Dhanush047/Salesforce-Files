@@ -3,3 +3,16 @@ SALESFORCE CUSTOM SETTINGS
 GETALL() METHOD
 ----------------
 
+public class customset 
+{
+    public static void main()
+    {
+        List <CountryCode__c> cd = CountryCode__c.getAll().values();
+        for(CountryCode__c c : cd)
+        {
+            system.debug('THE COUNTRY AND CODE IS : ' +c);
+        }
+    }
+}
+
+========================================================================================
