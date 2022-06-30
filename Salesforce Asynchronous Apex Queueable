@@ -1,0 +1,42 @@
+SALESFORCE ASYNCHRONOUS APEX QUEUEABLE METHOD
+
+| HERE WE HAVE CALLED ONE CLASS THROUGH ANOTHER CLASS |
+
+==========================================================================================================
+CLASS - 1 (THIS WILL BE CALLED THROUGH ANOTHER CLASS)
+
+public class queueableapex implements queueable
+{
+    public void execute(QueueableContext con)
+    {
+        undelete[SELECT Id, Name FROM Employee__c WHERE name like 'D%' AND isDeleted = true ALL ROWS];
+        system.debug('UN DELETED');
+    }
+    
+}
+
+==========================================================================================================
+
+CLASS - 2 (PREVIOUS CLASS WILL BE CALLED HERE)
+
+public class queueableapex2 implements Queueable
+{
+    public void execute(QueueableContext con2)
+        {
+            delete[SELECT Id, Name FROM Employee__c WHERE name like 'D%'];
+            system.debug('DELETED');
+            system.enqueueJob(new queueableapex());
+        }
+
+}
+
+==========================================================================================================
+TO EXECUTE USE THE FOLLOWING COMMAND
+
+TO FIND ID USE THE CODE
+
+------  ID jobid = system.enqueuejob(new queueable2());
+
+------  system.debug(jobid);
+
+==========================================================================================================
