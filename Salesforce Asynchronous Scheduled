@@ -1,6 +1,6 @@
 SALESFORCE ASYNCHRONOUS SCHEDULED 
 
-==============================================================
+=======================================================================
 
 public class scheduleapex implements schedulable
 {
@@ -11,3 +11,10 @@ public class scheduleapex implements schedulable
     }
 
 }
+
+=======================================================================
+TO EXECUTE USE THE FOLLOWING COMMAND
+
+string cront = '0 10 20 1 jul ? 2022';
+system.schedule('Schedule Job 8 : 10 pm', cront ,new scheduleapex());
+=======================================================================
