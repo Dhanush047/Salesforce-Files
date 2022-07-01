@@ -23,3 +23,8 @@ public class batchapex implements Database.Batchable<Sobject>
 
 }
 
+=================================================================================
+TO EXECUTE USE THE FOLLOWING COMMAND IN ANONYMOUS WINDOW
+
+Database.execute(new batchapex(), 2);
+=================================================================================
