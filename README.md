@@ -215,3 +215,11 @@
 [**DML ASYNCHRONOUS QUEUEABLE**](https://github.com/Dhanush047/Salesforce-Files/blob/cc050e4ec58012d7880954e6a41624a2039157ba/Salesforce%20Asynchronous%20Apex%20Queueable)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**DML ASYNCHRONOUS BATCH**](https://github.com/Dhanush047/Salesforce-Files/blob/dceb90c0963a9866e2d44a15e06e8430032ab517/Salesforce%20Asynchronous%20Apex%20Batch%20Apex)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[**DML ASYNCHRONOUS SCHEDULED**](https://github.com/Dhanush047/Salesforce-Files/blob/055fdb6cfa4aa108ba3b1bd0694d1009ba01ea84/Salesforce%20Asynchronous%20Scheduled)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
